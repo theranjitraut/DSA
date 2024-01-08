@@ -26,7 +26,7 @@ int binarysearching(int a[ ], int low, int high, int key)
 int main()
 {
     int a[size], n, key;
-    printf("Enter no. of entires: ");
+    printf("Enter no. of entries: ");
     scanf("%d", &n);
     for(int i=0;i<n;i++)
     {
